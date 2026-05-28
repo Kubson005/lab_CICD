@@ -2,6 +2,7 @@
 podstawowe funkcje matematyczne
 """
 
+
 def add(a: int, b: int) -> int:
     """
     dodawanie dwoch liczb calkowitych
